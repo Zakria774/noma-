@@ -1,4 +1,4 @@
-// Paste your NomaPreviewWorking code here
+
 import React, { useEffect, useMemo, useRef, useState } from "react";
 
 const STORAGE_KEY = "noma-preview-v7";
