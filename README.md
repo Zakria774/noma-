@@ -166,14 +166,12 @@ This project demonstrates:
 * OCR for receipt scanning
 * Advanced analytics & reports
 * Multi-user collaboration
-* AI-powered financial recommendations
 
 ---
 
 ## 👨‍💻 Authors
 
-M. Zakria 
-Riyan Ahmad
+M. Zakria
 
 ---
 
